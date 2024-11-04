@@ -1,0 +1,11 @@
+curso-IEC-treinamento/
+├── README.md
+├── cursos/
+│   ├── curso1-introducao-IEC/
+│   ├── curso2-avancado-IEC/
+├── videos/
+│   ├── video1-introducao.mp4
+│   ├── video2-sistemas-avancados.mp4
+├── materiais-complementares/
+│   ├── livro-IEC.pdf
+│   ├── slides-apresentacao.pptx
